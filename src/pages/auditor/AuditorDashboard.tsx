@@ -19,7 +19,7 @@ const keyAlerts = [
 ];
 
 const auditInsights = [
-  { title: 'NPA's Trend', type: 'Bar Graph' },
+  { title: 'NPA Trend', type: 'Bar Graph' },
   { title: 'KYC Compliance Trend', type: 'Line Graph' },
 ];
 
